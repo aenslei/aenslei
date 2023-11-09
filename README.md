@@ -9,6 +9,12 @@ Tech/Languages that I am currently skilled at, working on or experimenting with 
 
 [WIP]
 
+# Current Project </>
+
+I've always wanted to learn custom payload scripting with BadUSBs. Now that I have my FZ, I've been learning Powershell, duckyScript and soon Zshell for MacOS.
+
+[flipperZero-studies Repo](https://github.com/aenslei/flipperZero-studies)
+
 # Current Certifications 🎖
 My currently active Cybersecurity professional certifications:
 
