@@ -7,16 +7,7 @@ My interests mainly lie in penetration testing, digital forensics, malware rever
 # Tech! 💻
 Tech/Languages that I am currently skilled at, working on or experimenting with in no particular order:
 
-- Powershell
-- CMD
-- Git
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- MySQL
-- R
-- Python
+![techStack](https://github.com/aenslei/aenslei/assets/120321170/186642ac-3d6a-4b4f-9a73-e9008a3020a1)
 
 # Current Project </>
 
