@@ -1,6 +1,6 @@
 ![Banner](https://github.com/aenslei/aenslei/assets/120321170/d514d879-27ab-41b3-aee5-cc15271a85b2)
 
-<h1 align="center">Hi! I'm Ainsley. Welcome to my swamp ( ˘▽˘)っ♨</h1>
+<h1 align="center">Hi! I'm Ainsley. Welcome to my coding swamp ( ˘▽˘)っ</h1>
 
 # About Me 📝💻
 Hi! I'm Ainsley Cabading, a Cybersecurity student in Singapore and aiming to study for a specialised degree in this field in the Singapore Institute of Technology.
