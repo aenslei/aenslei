@@ -5,7 +5,7 @@ Hi! I'm Ainsley Cabading, a Cybersecurity student in Singapore and aiming to stu
 My interests mainly lie in penetration testing, digital forensics, malware reverse engineering and (most recently) cybersecurity hardware, like the Flipper Zero, with custom payload scripting.
 
 # Tech! 💻
-Tech/Languages that I am currently skilled at, working on or experimenting with in no particular order:
+Tech/Languages that I'm currently skilled at, working on or experimenting with in no particular order:
 
 ![techStack](https://github.com/aenslei/aenslei/assets/120321170/186642ac-3d6a-4b4f-9a73-e9008a3020a1)
 
