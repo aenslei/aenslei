@@ -23,7 +23,3 @@ My currently active Cybersecurity professional certifications:
 **Organizational Systems Security Analyst (OSSA)** - ThinkSECURE Pte Ltd
 
 **Magnet Certified Forensics Examiner (MCFE)** - Magnet Forensics
-
-# Socials 📱
-
-LinkedIn: https://www.linkedin.com/in/ainsley-cabading/ 
