@@ -15,7 +15,7 @@ Tech/Languages that I'm currently skilled at, working on or experimenting with i
 _✧₊⁺ winspect Tool: PowerShell-Based Security Inspector for Windows_ <br/>
 Developing a tool in pure PowerShell to check a device's security posture to determine its access to a company's intranet. <br/><br/>
 This project is being developed during my GovTech Singapore Girls-in-Tech Mentorship Programme! Thank you to my mentor in GovTech's Cybersecurity Group for her advice, guidance and extensive work experience. ٩(｡͡•‿•｡)۶ <br/><br/>
-I'll work to enhance Winspect's current functionalities and add more user-based functions like report creation. <br/><br/>
+I'll work to enhance Winspect's current functionalities and add more user-based functions like report creation. <br/>
 
 [winspect Repo](https://github.com/aenslei/winspect)
 
