@@ -1,4 +1,4 @@
-![Banner](https://github.com/aenslei/aenslei/assets/120321170/d514d879-27ab-41b3-aee5-cc15271a85b2)
+![LinkedIn Banner 2024](https://github.com/aenslei/aenslei/assets/120321170/c1e5a686-fd00-4a9c-8777-29aa25309b8f)
 
 <h1 align="center">Hi! I'm Ainsley. Welcome to my coding swamp ( ˘▽˘)っ</h1>
 
@@ -17,12 +17,13 @@ Developing a tool in pure PowerShell to check a device's security posture to det
 This project is being developed during my GovTech Singapore Girls-in-Tech Mentorship Programme! Thank you to my mentor in GovTech's Cybersecurity Group for her advice, guidance and extensive work experience. ٩(｡͡•‿•｡)۶ <br/><br/>
 I'll work to enhance Winspect's current functionalities and add more user-based functions like report creation. <br/>
 
-[winspect Repo](https://github.com/aenslei/winspect)
+Interested? Check it out (´ ▽ ` )ﾉ [winspect Repo](https://github.com/aenslei/winspect)
 
-_✧₊⁺ **USB Payload Scripting**_ <br/><br/>
-I've always wanted to learn custom payload scripting with BadUSBs. Now that I have my FZ, I've been learning Powershell, duckyScript and soon Zshell for MacOS.
+_✧₊⁺ **USB Payload Scripting**_ <br/>
+I've always wanted to learn custom payload scripting with BadUSBs. Now that I have my FZ, I've been learning Powershell, duckyScript and soon Zshell for MacOS.<br/>
+I come back to this project from time to time whenever I'm free to make new payloads! 
 
-[flipperZero-studies Repo](https://github.com/aenslei/flipperZero-studies)
+Interested? Check it out (´ ▽ ` )ﾉ [flipperZero-studies Repo](https://github.com/aenslei/flipperZero-studies)
 
 # Current Certifications 🎖
 My currently active Cybersecurity professional certifications:
